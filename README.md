@@ -1,5 +1,6 @@
 ### Hi there👋👋 my name is Lincoln
 
+### Some technologies that i know
 <div>
   <img width="60rem" title="C Plus Plus Logo" height="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img width="60rem" title="Python Logo" height="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
